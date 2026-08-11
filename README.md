@@ -70,4 +70,6 @@
 
 *"Still learning. Still building."*
 
+<img width="396" height="33" alt="aesthetic-divider" src="https://github.com/user-attachments/assets/4b678051-10b6-497a-a16d-a059c0a49ae6" />
+
 </div>
