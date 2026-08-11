@@ -48,13 +48,11 @@
 
 *Here are the languages I work with. Since there is always more to explore, I am constantly learning and improving!*
 
-<!-- [BADGES] HIER DEINE TECH-STACK-BADGES -->
-
-<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=openjdk&logoColor=white" alt="𝙹𝚊𝚟𝚊">
-<img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="𝙿𝚢𝚝𝚑𝚘𝚗">
-<img src="https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white" alt="𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝">
-<img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=html5&logoColor=white" alt="𝙷𝚃𝙼𝙻">
-<img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=css3&logoColor=white" alt="𝙲𝚂𝚂">
+<img src="https://img.shields.io/badge/Java-b02059?style=flat&logo=openjdk&logoColor=white" alt="𝙹𝚊𝚟𝚊">
+<img src="https://img.shields.io/badge/Python-b02059?style=flat&logo=python&logoColor=white" alt="𝙿𝚢𝚝𝚑𝚘𝚗">
+<img src="https://img.shields.io/badge/JavaScript-b02059?style=flat&logo=javascript&logoColor=white" alt="𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝">
+<img src="https://img.shields.io/badge/HTML-b02059?style=flat&logo=html5&logoColor=white" alt="𝙷𝚃𝙼𝙻">
+<img src="https://img.shields.io/badge/CSS-b02059?style=flat&logo=css3&logoColor=white" alt="𝙲𝚂𝚂">
 
 </div>
 
