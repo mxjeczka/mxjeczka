@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## ❀ 𝔄𝔟𝔬𝔲𝔱 𝔪𝔢 ❀
+## <img width="32" height="30" alt="butterfly-freedom" src="https://github.com/user-attachments/assets/582ab6fc-ad24-43ae-9529-ed6837c61b56" /> 𝔄𝔟𝔬𝔲𝔱 𝔪𝔢 <img width="32" height="30" alt="butterfly-freedom" src="https://github.com/user-attachments/assets/582ab6fc-ad24-43ae-9529-ed6837c61b56" />
 
 𝙸'𝚖 𝚊 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝚊 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-## ❀ 𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔖𝔨𝔦𝔩𝔩𝔰 ❀
+## <img width="32" height="30" alt="butterfly-freedom" src="https://github.com/user-attachments/assets/582ab6fc-ad24-43ae-9529-ed6837c61b56" /> 𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔖𝔨𝔦𝔩𝔩𝔰 <img width="32" height="30" alt="butterfly-freedom" src="https://github.com/user-attachments/assets/582ab6fc-ad24-43ae-9529-ed6837c61b56" />
 
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 
