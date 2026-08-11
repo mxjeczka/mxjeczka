@@ -2,6 +2,7 @@
 
 <img width="406" height="100" alt="glitter-graphic-divider-black-grey" src="https://github.com/user-attachments/assets/5fa6a742-9fe5-46a9-96e5-0bbab470c841" /><img width="406" height="100" alt="glitter-graphic-divider-black-grey" src="https://github.com/user-attachments/assets/5fa6a742-9fe5-46a9-96e5-0bbab470c841" />
 
+
 # ℌ𝔦, 𝔦´𝔪 𝔐𝔞𝔧𝔞
 
 ### 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚂𝚝𝚞𝚍𝚎𝚗𝚝
@@ -10,7 +11,7 @@
 
 <br>
 
-<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+<img width="436" height="40" alt="82b0b953-4df4-44ab-9122-2f31f803ce81" src="https://github.com/user-attachments/assets/49e7b58f-e452-4999-ae2a-bb2ca34b2c7c" />
 
 </div>
 
@@ -32,8 +33,8 @@
 
 
 <div align="center">
-
-<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+  
+<img width="436" height="40" alt="82b0b953-4df4-44ab-9122-2f31f803ce81" src="https://github.com/user-attachments/assets/49e7b58f-e452-4999-ae2a-bb2ca34b2c7c" />
 
 </div>
 
@@ -45,13 +46,15 @@
 
 ### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 
+*Here are the languages I work with. Since there is always more to explore, I am constantly learning and improving!*
+
 <!-- [BADGES] HIER DEINE TECH-STACK-BADGES -->
 
-<img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge&logo=openjdk&logoColor=white" alt="𝙹𝚊𝚟𝚊">
-<img src="https://img.shields.io/badge/Python-darkred?style=for-the-badge&logo=python&logoColor=white" alt="𝙿𝚢𝚝𝚑𝚘𝚗">
-<img src="https://img.shields.io/badge/JavaScript-darkred?style=for-the-badge&logo=javascript&logoColor=white" alt="𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝">
-<img src="https://img.shields.io/badge/HTML-darkred?style=for-the-badge&logo=html5&logoColor=white" alt="𝙷𝚃𝙼𝙻">
-<img src="https://img.shields.io/badge/CSS-darkred?style=for-the-badge&logo=css3&logoColor=white" alt="𝙲𝚂𝚂">
+<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=openjdk&logoColor=white" alt="𝙹𝚊𝚟𝚊">
+<img src="https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white" alt="𝙿𝚢𝚝𝚑𝚘𝚗">
+<img src="https://img.shields.io/badge/JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white" alt="𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝">
+<img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=html5&logoColor=white" alt="𝙷𝚃𝙼𝙻">
+<img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&logo=css3&logoColor=white" alt="𝙲𝚂𝚂">
 
 </div>
 
@@ -59,7 +62,7 @@
 
 <div align="center">
 
-<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+<img width="436" height="40" alt="82b0b953-4df4-44ab-9122-2f31f803ce81" src="https://github.com/user-attachments/assets/49e7b58f-e452-4999-ae2a-bb2ca34b2c7c" />
 
 </div>
 
