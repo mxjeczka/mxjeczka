@@ -1,16 +1,176 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mxjeczka/mxjeczka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="406" height="100" alt="glitter-graphic-divider-black-grey" src="https://github.com/user-attachments/assets/5fa6a742-9fe5-46a9-96e5-0bbab470c841" /><img width="406" height="100" alt="glitter-graphic-divider-black-grey" src="https://github.com/user-attachments/assets/5fa6a742-9fe5-46a9-96e5-0bbab470c841" />
 
-Here are some ideas to get you started:
+# ℌ𝔦, 𝔦´𝔪 𝔐𝔞𝔧𝔞
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚂𝚝𝚞𝚍𝚎𝚗𝚝
+
+*Building ideas into something real.*
+
+<br>
+
+<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+
+</div>
+
+<br> 
+
+<div align="center">
+
+## ❀ 𝔄𝔟𝔬𝔲𝔱 𝔪𝔢 ❀
+
+𝙸'𝚖 𝚊 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚂𝚢𝚜𝚝𝚎𝚖𝚜 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝚊 𝚐𝚛𝚘𝚠𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 𝚒𝚗 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.
+
+𝙸 𝚎𝚗𝚓𝚘𝚢 𝚝𝚊𝚔𝚒𝚗𝚐 𝚜𝚖𝚊𝚕𝚕 𝚒𝚍𝚎𝚊𝚜 𝚊𝚗𝚍 𝚝𝚞𝚛𝚗𝚒𝚗𝚐 𝚝𝚑𝚎𝚖 𝚒𝚗𝚝𝚘 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚝𝚊𝚗𝚐𝚒𝚋𝚕𝚎, 𝚠𝚑𝚎𝚝𝚑𝚎𝚛 𝚝𝚑𝚊𝚝'𝚜 𝚊 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗, 𝚊 𝚠𝚎𝚋𝚜𝚒𝚝𝚎, 𝚘𝚛 𝚊𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝚠𝚒𝚝𝚑 𝚊 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢.
+
+𝙸'𝚖 𝚜𝚝𝚒𝚕𝚕 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚋𝚞𝚝 𝚝𝚑𝚊𝚝'𝚜 𝚎𝚡𝚊𝚌𝚝𝚕𝚢 𝚠𝚑𝚊𝚝 𝚖𝚊𝚔𝚎𝚜 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚝𝚑𝚒𝚗𝚐𝚜 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐.
+
+</div>
+
+<br>
+
+
+<div align="center">
+
+<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ❀ 𝔗𝔢𝔠𝔥𝔫𝔦𝔠𝔞𝔩 𝔖𝔨𝔦𝔩𝔩𝔰 ❀
+
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
+
+<!-- [BADGES] HIER DEINE TECH-STACK-BADGES -->
+
+<img src="https://img.shields.io/badge/Java-darkred?style=for-the-badge&logo=openjdk&logoColor=white" alt="𝙹𝚊𝚟𝚊">
+<img src="https://img.shields.io/badge/Python-darkred?style=for-the-badge&logo=python&logoColor=white" alt="𝙿𝚢𝚝𝚑𝚘𝚗">
+<img src="https://img.shields.io/badge/JavaScript-darkred?style=for-the-badge&logo=javascript&logoColor=white" alt="𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝">
+<img src="https://img.shields.io/badge/HTML-darkred?style=for-the-badge&logo=html5&logoColor=white" alt="𝙷𝚃𝙼𝙻">
+<img src="https://img.shields.io/badge/CSS-darkred?style=for-the-badge&logo=css3&logoColor=white" alt="𝙲𝚂𝚂">
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ❀ 𝔓𝔯𝔬𝔧𝔢𝔠𝔱 ❀
+
+</div>
+
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+
+
+<div align="center">
+
+<img src="assets/project-01.png" width="250" alt="Project One">
+
+### Project One
+
+</div>
+
+Short description of what the project does and why you built it.
+
+`Java` · `OOP`
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<!-- [BILD 3] PROJEKT-BILD 2 -->
+<!-- assets/project-02.png -->
+
+<div align="center">
+
+<img src="assets/project-02.png" width="250" alt="Project Two">
+
+### Project Two
+
+</div>
+
+Short description of what the project does and what you learned from it.
+
+`JavaScript` · `HTML` · `CSS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<!-- [BILD 4] PROJEKT-BILD 3 -->
+<!-- assets/project-03.png -->
+
+<div align="center">
+
+<img src="assets/project-03.png" width="250" alt="Project Three">
+
+### Project Three
+
+</div>
+
+Short description of the project and the idea behind it.
+
+`Python` · `API`
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<!-- [BILD 5] PROJEKT-BILD 4 -->
+<!-- assets/project-04.png -->
+
+<div align="center">
+
+<img src="assets/project-04.png" width="250" alt="Project Four">
+
+### Project Four
+
+</div>
+
+Short description of the project and what technologies you used.
+
+`HTML` · `CSS`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img width="536" height="40" alt="golden divider" src="https://github.com/user-attachments/assets/03bf0686-29cf-475e-aaaf-422c8a2dc2f5" />
+
+</div>
+
+
+<br>
+<div align="center">
+
+*"Still learning. Still building."*
+
+</div>
